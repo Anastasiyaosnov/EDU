@@ -1,0 +1,58 @@
+.img{
+    background-image: url(brooke-lark-M4E7X3z80PQ-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    /*background-attachment: fixed;*/
+    background-size: cover;
+    height: 1000px;
+    filter: brightness(40%);
+}
+body{
+    margin: 0%;
+}
+.text{
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%)
+}
+
+.font1{
+    font-family: 'Open Sans', sans-serif;
+
+    font-family: 'Tilt Warp', cursive;
+    font-size: 6rem;
+    color: rgb(255, 255, 255);
+}
+
+.font3{
+    font-family: 'Open Sans', sans-serif;
+    font-family: 'Tilt Warp', cursive;
+    font-size: 6rem;
+    color: rgb(255, 255, 255);
+}
+.text2{
+    font-family: 'Open Sans', sans-serif;
+
+    font-family: 'Tilt Warp', cursive;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%)
+}
+.img2{
+    background-image: url(annie-spratt-XyBeP4K9Vzs-unsplash.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    /*background-attachment: fixed;*/
+    background-size: cover;
+    height: 1000px;
+    filter: brightness(40%);
+}
+
+.text3{
+    position: absolute;
+    top: 160%;
+    left: 50%;
+    transform: translate(-50%, -50%)
+}
